@@ -1,2 +1,2 @@
 # Projects
-This contain engineeringprojects
+This contain Academic projects
